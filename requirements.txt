@@ -1,5 +1,2 @@
-python-telegram-bot==20.7
-pyTelegramBotAPI==4.14.0
-requests
-aiohttp
-apscheduler
+python-telegram-bot[job-queue]==20.8
+apscheduler==3.10.4
